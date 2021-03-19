@@ -8,7 +8,7 @@ ___
 
 ## :information_source: Sobre
 
-Calculadora desenvolvida utilizando java script para realizar operações matematicas basicas. 
+Calculadora para realizar operações matematicas basicas utilizando javascript.
 
 ## :interrobang: Motivo
 
